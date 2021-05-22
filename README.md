@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @AtulSinghBankoti
+- 👀 I’m interested in Technolody.
+- 🌱 I’m currently working in IT. 
+- 💞️ I’m looking to collaborate on solving tech problems.
+- 📫 How to reach me https://www.linkedin.com/in/atul-singh-bankoti-46b158b6/
+
+<!---
+AtulSinghBankoti/AtulSinghBankoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
